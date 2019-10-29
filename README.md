@@ -3,4 +3,4 @@
 API Document
 =============
 
-[API_v2](https://demo.peatio.com/documents/api-v2)
+[API_v2](https://www.nlexch.com/documents/api-v2)
